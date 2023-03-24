@@ -1,6 +1,6 @@
 # Synthetic Data Tutorials - by MOSTLY AI
 
-Welcome! We're excited to share our repository of tutorials with you, which will help you explore and validate the benefits of synthetic data. The best part? You can get started in no time! Simply clone the repository to your own environment and run it locally via Jupyter Lab, or make it even easier and run each tutorial directly on Google's cloud resources via Colab. Let's get started!
+Welcome! We're excited to share our repository of tutorials with you, which will help you explore and validate the benefits of synthetic data. Simply clone the repository to your own environment and run it locally via Jupyter Lab, or make it even easier and run each tutorial directly on Google's cloud resources via Colab. Let's get started!
 
 * Validate synthetic data via **Train-Synthetic-Test-Real** [[run on Colab](https://colab.research.google.com/github/mostly-ai/mostly-tutorials/blob/dev/train-synthetic-test-real/TSTR.ipynb)]
 * Explore the **size vs. accuracy trade-off** for synthetic data [[run on Colab](https://colab.research.google.com/github/mostly-ai/mostly-tutorials/blob/dev/size-vs-accuracy/size-vs-accuracy.ipynb)]
