@@ -1,4 +1,4 @@
-disp_id,client_id,account_id,type
+disposition_id,client_id,account_id,type
 1,1,1,OWNER
 2,2,2,OWNER
 3,3,2,DISPONENT

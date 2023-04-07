@@ -1,4 +1,4 @@
-card_id,disp_id,type,issued
+card_id,disposition_id,type,issued
 1005,9285,classic,1993-11-07
 104,588,classic,1994-01-19
 747,4915,classic,1994-02-05

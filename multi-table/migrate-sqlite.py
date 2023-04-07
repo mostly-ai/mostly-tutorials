@@ -46,6 +46,7 @@ with engine.connect() as conn:
         # create table
         stmt = create_table_sql(df, tbl_name)
         conn.execute(sa.text(stmt))
+        print(f"created table {tbl_name}")
     conn.commit()
     conn.close()
 
@@ -53,5 +54,6 @@ with engine.connect() as conn:
     for tbl_name, df in data.items():
         # insert records
         df.to_sql(tbl_name, conn, index=False, if_exists='append')
+        print(f"loaded data to {tbl_name}")
     conn.commit()
     conn.close()

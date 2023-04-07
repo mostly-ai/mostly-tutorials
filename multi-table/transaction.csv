@@ -1,4 +1,4 @@
-trans_id,account_id,date,type,operation,amount,balance,k_symbol,bank
+transaction_id,account_id,date,type,operation,amount,balance,k_symbol,bank
 695247,2378,1993-01-01,PRIJEM,VKLAD,700.0,700.0,,
 171812,576,1993-01-01,PRIJEM,VKLAD,900.0,900.0,,
 207264,704,1993-01-01,PRIJEM,VKLAD,1000.0,1000.0,,
