@@ -11,3 +11,4 @@ Welcome! We're excited to share our repository of tutorials with you, which will
 * Perform **multi-table synthesis** [[run on Colab](https://colab.research.google.com/github/mostly-ai/mostly-tutorials/blob/dev/multi-table/multi-table.ipynb)]
 * Develop a **fake or real discriminator** with Synthetic Data [[run on Colab](https://colab.research.google.com/github/mostly-ai/mostly-tutorials/blob/dev/fake-or-real/fake-or-real.ipynb)]
 * Close gaps in your data with **Smart Imputation** [[run on Colab](https://colab.research.google.com/github/mostly-ai/mostly-tutorials/blob/dev/smart-imputation/smart-imputation.ipynb)]
+* Calculate accuracy and privacy metrics for **Quality Assurance** [[run on Colab](https://colab.research.google.com/github/mostly-ai/mostly-tutorials/blob/dev/quality-assurance/quality-assurance.ipynb)]
